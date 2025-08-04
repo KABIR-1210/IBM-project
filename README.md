@@ -1,4 +1,4 @@
-# 🍛 Indian Recipes Agent – Smart Recipe Suggestions Based on Ingredients
+# 🍛 Recipe Agent – Smart Recipe Suggestions Based on Ingredients
 
 A smart AI-powered recipe suggestion web app that provides personalized Indian recipes based on the ingredients you have. Built with Streamlit, Gemini (Google Generative AI), and FAISS for fast recipe retrieval.
 
@@ -46,3 +46,4 @@ A smart AI-powered recipe suggestion web app that provides personalized Indian r
 │   └── rag_helper.py        # Creates vectorstore and QA chain
 ├── requirements.txt         # Required packages
 └── .env                     # Contains your Google API Key
+
