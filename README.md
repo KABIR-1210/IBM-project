@@ -11,10 +11,6 @@ A smart AI-powered recipe suggestion web app that provides personalized Indian r
 - ⚡ Fast and efficient recipe retrieval using FAISS vector search
 - 🤖 RAG (Retrieval-Augmented Generation) powered by Gemini Pro
 
-## 📸 Demo
-
-![screenshot](demo/screenshot.png)  
-
 ## 🧠 How It Works
 
 1. User inputs available ingredients.
@@ -46,4 +42,5 @@ A smart AI-powered recipe suggestion web app that provides personalized Indian r
 │   └── rag_helper.py        # Creates vectorstore and QA chain
 ├── requirements.txt         # Required packages
 └── .env                     # Contains your Google API Key
+
 
